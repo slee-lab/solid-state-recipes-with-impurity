@@ -2,7 +2,7 @@
 
 ### For the publication "Text-mined dataset of solid-state syntheses with impurity phases using Large Language Model" by Sanghoon Lee, Kevin Cruse, Viktoriia Baibakova, Gerbrand Ceder, and Anubhav Jain.
 
-[SS_rxns_80823.gz.pkl](SS_rxns_80823.gz.pkl) is the dataset consisting of 80,823 solid-state synthesis recipes.
+[SS_rxns_80806.gz.pkl](SS_rxns_80806.gz.pkl) is the dataset consisting of 80,806 solid-state synthesis recipes.
 
 
 
